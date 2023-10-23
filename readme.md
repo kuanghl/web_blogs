@@ -1,0 +1,3 @@
+- [al-folio](https://github.com/alshedivat/al-folio.git)
+- [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy.git)
+- [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme.git)
